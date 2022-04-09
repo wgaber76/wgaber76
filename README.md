@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wael Gaber
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning python and its relevant data nalaysis libraries  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and its relevant data analysis libraries  
+- 💞️ I’m looking to sharpen my data analysis skills
 - 📫 How to reach me wael.mohamed.gaber@gmail.com
 
 <!---
